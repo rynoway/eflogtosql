@@ -95,10 +95,6 @@ eftosql/
 - 溢出处理
 - 复制成功反馈
 
-## 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
 ## 许可
 
 [MIT License](LICENSE)
